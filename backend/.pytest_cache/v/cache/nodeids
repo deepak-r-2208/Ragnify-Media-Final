@@ -1,0 +1,6 @@
+[
+  "tests/test_chunking.py::ChunkingTests::test_empty_text",
+  "tests/test_chunking.py::ChunkingTests::test_long_text_is_bounded",
+  "tests/test_chunking.py::ChunkingTests::test_preserves_content",
+  "tests/test_schemas.py::SchemaTests::test_question_rejects_blank"
+]
